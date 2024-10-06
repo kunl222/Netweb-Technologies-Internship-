@@ -3,7 +3,7 @@ This is a brief report on the Assignments concluded by Kunal Jain during the int
 <p align = "center">
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/e015994c-36b7-4b23-af40-e1985ab0e5f4">
 </p>
-1.August 1 - August 31
+* August 1 - August 31
   1. Modules By Andrew Ng
     1. Linear Regression with One Variable 
     2. Linear Regression with multiple Variable 
