@@ -3,12 +3,12 @@ This is a brief report on the Assignments concluded by Kunal Jain during the int
 <p align = "center">
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/e015994c-36b7-4b23-af40-e1985ab0e5f4">
 </p>
-## August 1 - August 31
-1. Modules By Andrew Ng
-  1.1 Linear Regression with One Variable 
-  1.2 Linear Regression with multiple Variable 
-  1.3 Octave Tutorial 
-  1.4 Logistic Regression
+1.August 1 - August 31
+  1. Modules By Andrew Ng
+    1. Linear Regression with One Variable 
+    2. Linear Regression with multiple Variable 
+    1.3 Octave Tutorial 
+    1.4 Logistic Regression
   1.5 Regularization
   1.6 Neural Networks 
   1.7 Machine Learning and system design 
