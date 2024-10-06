@@ -3,18 +3,18 @@ This is a brief report on the Assignments concluded by Kunal Jain during the int
 <p align = "center">
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/e015994c-36b7-4b23-af40-e1985ab0e5f4">
 </p>
-* August 1 - August 31
-  1. Modules By Andrew Ng
-    1. Linear Regression with One Variable 
-    2. Linear Regression with multiple Variable 
-    1.3 Octave Tutorial 
-    1.4 Logistic Regression
-  1.5 Regularization
-  1.6 Neural Networks 
-  1.7 Machine Learning and system design 
-  1.8 Support Vector Machines 
-  1.9 Clustering 
-  1.10 Dimentionality Reduction 
+1. August 1 - August 31
+  * Modules By Andrew Ng
+    * Linear Regression with One Variable 
+    * Linear Regression with multiple Variable 
+    * Octave Tutorial 
+    * Logistic Regression
+    * Regularization
+    * Neural Networks 
+    * Machine Learning and system design 
+    * Support Vector Machines 
+    * Clustering 
+    * Dimentionality Reduction 
 2. Neural Networks (NN)
   2.1 Artificial Neural Network (ANN)
   2.2 Recurrent Neural Network (RNN)
